@@ -2,18 +2,18 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
-        versionCode = "36100"
-        android-versionCode="36100"
-        version   = "3.6.1">
+        id        = "com.eilmin.mobile"
+        versionCode = "100"
+        android-versionCode="100"
+        version   = "1.0.0">
     <name>Eilmin</name>
 
     <description>
         Eilmin mobile app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="https://www.eilmin.com" email="info@eilmin.com">
+        Eilmin Mobile team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
